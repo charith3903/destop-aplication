@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJMfh5Vl407N/hAlQoX3mfpZj2wsSIMbQJPRVMzMw3SN8ctCi0CbBmYueHGaLNqGapsssmM1Qd+sbQvR03Ro1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charu\\OneDrive\\Desktop\\individual project\\original\\Desktop01\\Desktop01\\Desktop01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charu\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
